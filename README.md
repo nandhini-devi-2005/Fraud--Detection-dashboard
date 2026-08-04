@@ -12,6 +12,8 @@ Measure fraud rate and financial impact.
 Build an interactive Power BI dashboard.
 Generate actionable business insights for fraud prevention.
 📊 Dashboard KPIs
+
+
 ✅ Total Transactions
 ✅ Genuine Transactions
 ✅ Fraud Transactions
@@ -27,6 +29,8 @@ Hourly Fraud Analysis
 Top High-Risk Transaction Types
 Monthly Fraud Trend
 Interactive Filters (Slicers)
+
+
 🛠 Tech Stack
 Python
 Pandas
